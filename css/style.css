@@ -1,0 +1,221 @@
+.autora {
+  padding: 8px;
+}
+
+body{
+   background-color:white;
+ }
+
+ .corpo {
+   width: 960px;
+   margin: auto;
+ }
+
+ #stranger {
+   width: auto;
+   height: 210px;
+ }
+
+ #stranger2 {
+   width: auto;
+   height: 210px;
+ }
+
+ #stranger3 {
+   width: auto;
+   height: 210px;
+ }
+
+ #gr1 {
+   width: auto;
+   height: 210px;
+}
+
+ #gr2 {
+   width: auto;
+   height: 210px;
+ }
+
+ #thb {
+   width: auto;
+   height: 210px;
+ }
+
+ #thbm {
+   width: auto;
+   height: 210px;
+ }
+
+ #thhh {
+   width: auto;
+   height: 210px;
+ }
+
+ #thhh2 {
+   width: auto;
+   height: 210px;
+  }
+  #thhh3 {
+   width: auto;
+   height: 210px;
+  }
+
+ #hxh { 
+
+   width: auto;
+   height: 210px;
+
+ }
+
+ #hxh-2 {
+
+   width: auto;
+   height: 210px;
+ }
+
+ #hxh3 {
+  width: auto;
+  height: 210px;
+ }
+
+ #tpn {
+   width: auto;
+   height: 210px;
+}
+
+ #tpn2{
+   width: auto;
+   height: 210px;
+ }
+
+ #rm {
+  width: auto;
+  height: 210px;
+ }
+
+ #rm2 {
+  width: auto;
+  height: 210px;
+ }
+
+ #rm3 {
+  width: auto;
+  height: 210px;
+ }
+
+ #agg {
+  width: auto;
+  height: 210px;
+ }
+
+ #agg2 {
+  width: auto;
+  height: 210px;
+ }
+
+ #to {
+  width: auto;
+  height: 210px;
+ }
+
+ #to2 {
+  width: auto;
+  height: 210px;
+ }
+
+ #to3 {
+  width: auto;
+  height: 210px;
+ }
+
+ h1 {
+    
+    text-align: center;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 60px;
+    font-weight:bold;
+    color: rgb(0, 0, 0);
+    
+ }
+
+ .itens{
+    
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    margin-bottom: -10px;
+ }
+
+ destaque {
+
+    
+    font-size: 23px;
+    font-weight: bold;
+    color: black;
+  }
+
+ .divisao {
+   
+   text-align: center;
+   width: 93%;
+   font-family: Helvetica, Arial, sans-serif;
+   font-weight: normal;
+   color: #707070;
+   background: #ffffff;
+   font-size: 19px;
+   
+}
+ diminui {
+  
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #707070;
+
+ }
+
+ muda {
+   font-weight: normal;
+   color: #707070;
+ }
+
+  oi{
+   color:  #707070 ;
+ }
+
+ centro {
+ 
+  font-family: Helvetica, Arial, sans-serif; 
+  color: #707070;
+}
+center {
+  padding: 8px;
+}
+ 
+ em strong{
+    color:black;
+ }
+
+ a{
+  
+  padding: 25px;
+  font-family: Helvetica, Arial, sans-serif; 
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+  
+ }
+
+ a:hover{
+   color:#d82b4e ;
+   text-decoration: none;
+ }
+
+hr{
+  color: #707070;
+}
